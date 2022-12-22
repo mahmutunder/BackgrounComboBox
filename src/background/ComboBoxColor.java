@@ -28,6 +28,7 @@ public class ComboBoxColor extends JFrame implements ActionListener {
         back.setBackground(Color.yellow);
 
         colorBox.addActionListener(this);
+        // this
 
     }
 
